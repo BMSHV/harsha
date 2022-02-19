@@ -1,0 +1,6 @@
+projectKey=com.abc:springjpa
+serverUrl=http://localhost:9000
+serverVersion=9.3.0.51899
+dashboardUrl=http://localhost:9000/dashboard?id=com.abc%3Aspringjpa
+ceTaskId=AX8Rb_RtISopwvrmVPtd
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX8Rb_RtISopwvrmVPtd

@@ -1,0 +1,6 @@
+com\abc\springjpa\entity\Product.class
+com\abc\springjpa\controller\ProductController.class
+com\abc\springjpa\service\ProductServiceImpl.class
+com\abc\springjpa\App.class
+com\abc\springjpa\dao\ProductDaoImpl.class
+com\abc\springjpa\ProductControllerMain.class
